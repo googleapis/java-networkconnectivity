@@ -4,7 +4,7 @@
       "git": {
         "name": ".",
         "remote": "https://github.com/googleapis/java-networkconnectivity.git",
-        "sha": "0b9d5c5d35332c46780b160ff8bbc3f5674306aa"
+        "sha": "56f65f8ee82e888e3154d70d3911e3d80d972648"
       }
     },
     {
