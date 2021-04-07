@@ -14,19 +14,6 @@
 
 """This script is used to synthesize generated parts of this library."""
 
-import synthtool as s
-import synthtool.gcp as gcp
 import synthtool.languages.java as java
-
-service = 'networkconnectivity'
-versions = ['v1alpha1']
-
-for version in versions:
-  java.bazel_library(
-      service=service,
-      version=version,
-      proto_path=f'google/cloud/{service}/{version}',
-      bazel_target=f'//google/cloud/{service}/{version}:google-cloud-{service}-{version}-java',
-  )
 
 java.common_templates()
