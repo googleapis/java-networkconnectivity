@@ -31,4 +31,17 @@
     <differenceType>7012</differenceType>
     <method>* getStateValue()</method>
   </difference>
+
+  <difference>
+    <className>com/google/cloud/networkconnectivity/v1alpha1/InstanceName*</className>
+    <differenceType>8001</differenceType>
+  </difference>
+  <difference>
+    <className>com/google/cloud/networkconnectivity/v1alpha1/VpnTunnelName*</className>
+    <differenceType>8001</differenceType>
+  </difference>
+  <difference>
+    <className>com/google/cloud/networkconnectivity/v1alpha1/InterconnectAttachment*</className>
+    <differenceType>8001</differenceType>
+  </difference>
 </differences>
