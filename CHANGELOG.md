@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://www.github.com/googleapis/java-networkconnectivity/compare/v0.3.1...v0.4.0) (2021-08-19)
+
+
+### Features
+
+* configure initial sp version ([#116](https://www.github.com/googleapis/java-networkconnectivity/issues/116)) ([a0123d3](https://www.github.com/googleapis/java-networkconnectivity/commit/a0123d3c2255b789454514c43bc2955f14a612a1))
+
 ### [0.3.1](https://www.github.com/googleapis/java-networkconnectivity/compare/v0.3.0...v0.3.1) (2021-07-01)
 
 
