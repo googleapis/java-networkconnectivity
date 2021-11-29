@@ -41,8 +41,7 @@ public final class CommonProto {
   static {
     java.lang.String[] descriptorData = {
       "\n"
-          + "0google/cloud/networkconnectivity/v1/common.proto\022#google.cloud.networkconnecti"
-          + "vity.v1\032\037google/api/field_behavior.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\200\002\n"
+          + "0google/cloud/networkconnectivity/v1/common.proto\022#google.cloud.networkconnectivity.v1\032\037google/api/field_behavior.proto\032\037google/protobuf/timestamp.proto\032\034google/api/annotations.proto\"\200\002\n"
           + "\021OperationMetadata\0224\n"
           + "\013create_time\030\001 \001(\0132\032.google.protobuf.TimestampB\003\340A\003\0221\n"
           + "\010end_time\030\002 \001(\0132\032.google.protobuf.TimestampB\003\340A\003\022\023\n"
