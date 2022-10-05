@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.9](https://github.com/googleapis/java-networkconnectivity/compare/v1.2.8...v1.2.9) (2022-10-05)
+
+
+### Bug Fixes
+
+* update protobuf to v3.21.7 ([1750ae0](https://github.com/googleapis/java-networkconnectivity/commit/1750ae093154ba4a56830d0f3a1ad30220a44d25))
+
 ## [1.2.8](https://github.com/googleapis/java-networkconnectivity/compare/v1.2.7...v1.2.8) (2022-10-03)
 
 
